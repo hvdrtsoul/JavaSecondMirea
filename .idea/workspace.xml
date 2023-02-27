@@ -1,13 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="253ed0fc-0fda-48af-86a7-d88fc4f05552" name="Changes" comment="">
+    <list default="true" id="253ed0fc-0fda-48af-86a7-d88fc4f05552" name="Changes" comment="added tasks pdf">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac6/abstract_factory/Pepperoni.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac6/abstract_factory/PepperoniPartsFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac6/abstract_factory/PestoPartsFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac6/abstract_factory/PestoSauce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac6/abstract_factory/PizzaPartFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac6/abstract_factory/Sauce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac6/abstract_factory/Tomato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac6/abstract_factory/TomatoSauce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac6/abstract_factory/Topping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac6/builder/PepperoniBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac6/builder/PestoBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac6/builder/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac6/builder/PizzaBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac6/builder/PizzaMaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac6/factory/ConcreteFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac6/factory/ConcreteProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac6/factory/Factory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac6/factory/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac6/prototype/Cappuchino.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac6/prototype/Cloneable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -21,13 +51,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Вуз/Java/JavaSecondMirea/src/prac6/builder",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Вуз\Java\JavaSecondMirea\src\prac6\builder" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Вуз\Java\JavaSecondMirea" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -37,6 +77,14 @@
       <option name="presentableId" value="Default" />
       <updated>1677511571929</updated>
     </task>
+    <task id="LOCAL-00001" summary="added tasks pdf">
+      <created>1677512912762</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677512912762</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -49,5 +97,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added tasks pdf" />
+    <option name="LAST_COMMIT_MESSAGE" value="added tasks pdf" />
   </component>
 </project>
