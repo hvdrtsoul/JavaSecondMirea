@@ -1,7 +1,6 @@
 package prac6.prototype;
 
 public class Cappuchino implements Cloneable {
-
     private enum MilkLevel{
         LOW_MILK, MEDIUM_MILK, HIGH_MILK
     }
