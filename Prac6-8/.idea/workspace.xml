@@ -1,19 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="253ed0fc-0fda-48af-86a7-d88fc4f05552" name="Changes" comment="made prac7, now I know structure patterns">
-      <change afterPath="$PROJECT_DIR$/src/prac8/template_method/AbstractCoffeeMaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac8/template_method/LatteCoffeeMaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac8/template_method/RafCoffeeMaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac8/template_method/TurkishLatteCoffeeMaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac8/visitor/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac8/visitor/AccountsList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac8/visitor/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac8/visitor/JsonVisitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac8/visitor/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac8/visitor/Visitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac8/visitor/VisitorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac8/visitor/XmlVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac9/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,15 +33,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Вуз/Java/JavaSecondMirea/src/prac6/builder&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Вуз/Java/JavaSecondMirea/src/prac6/builder",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "gradle.compiler",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Вуз\Java\JavaSecondMirea\src\prac6\builder" />
@@ -86,6 +85,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677511571929</updated>
+      <workItem from="1682427242687" duration="818000" />
     </task>
     <task id="LOCAL-00001" summary="added tasks pdf">
       <created>1677512912762</created>
@@ -111,6 +111,9 @@
     <option name="localTasksCounter" value="4" />
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -127,5 +130,9 @@
     <MESSAGE value="made prac6, now I know patterns lol" />
     <MESSAGE value="made prac7, now I know structure patterns" />
     <option name="LAST_COMMIT_MESSAGE" value="made prac7, now I know structure patterns" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
